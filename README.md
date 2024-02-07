@@ -13,8 +13,6 @@ Skills:  JAVA / C / PYTHON / JS / HTML / CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoKaramitos&hide_progress=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoKaramitos&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![NikoKaramitos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoKaramitos&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ![NikoKaramitos's Stats](https://github-readme-stats.vercel.app/api?username=NikoKaramitos&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
