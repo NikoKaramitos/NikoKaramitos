@@ -4,7 +4,7 @@ I study Computer Science 👨‍💻 at the University of Central Florida 🍊Go
 My passion for software engineering 💻 is driven by my desire to learn new things, to be creative, and to be innovative.
 Machine Learning, Artificial Intelligence, and Computer Vision are where I am focusing my learning right now.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,py,cpp,bootstrap,androidstudio,mysql,nodejs,opencv,php,pytorch,sklearn,tensorflow,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,js,html,css,cpp,bootstrap,androidstudio,mysql,nodejs,php,react)](https://skillicons.dev)
 
 - 🌱 I’m currently learning React JS | C++ | BootStrap | JS  
 
