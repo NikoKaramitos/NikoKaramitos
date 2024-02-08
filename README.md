@@ -9,6 +9,7 @@ Machine Learning, Artificial Intelligence, and Computer Vision are where I am fo
 - 🌱 I’m currently learning React JS | C++ | BootStrap  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoKaramitos&theme=tokyonight&hide_progress=true) 
+
 ![NikoKaramitos's Stats](https://github-readme-stats.vercel.app/api?username=NikoKaramitos&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 
