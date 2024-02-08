@@ -8,13 +8,10 @@ Machine Learning, Artificial Intelligence, and Computer Vision are where I am fo
 
 - 🌱 I’m currently learning React JS | C++ | BootStrap  
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NikoKaramitos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicholas-karamitos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nikokaramitos.com)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoKaramitos&theme=tokyonight&hide_progress=true) ![NikoKaramitos's Stats](https://github-readme-stats.vercel.app/api?username=NikoKaramitos&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NikoKaramitos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicholas-karamitos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nikokaramitos.com)  
 
 <!--
 **NikoKaramitos/NikoKaramitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
