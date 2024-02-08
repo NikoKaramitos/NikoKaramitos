@@ -1,7 +1,7 @@
 
 <img width="1834" alt="Make your README" src="https://github.com/NikoKaramitos/NikoKaramitos/assets/78456903/8398b119-b5b6-476a-9847-38d1970f7a88">
+
 I study Computer Science 👨‍💻 at the University of Central Florida 🍊Go Knights!🟨⚔️⬛️
-My passion for software engineering 💻 is driven by my desire to learn new things, to be creative, and to be innovative.
 Machine Learning, Artificial Intelligence, and Computer Vision are where I am focusing my learning right now.
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,py,js,html,css,cpp,bootstrap,androidstudio,kotlin,mysql,nodejs,php,react,opencv,pytorch,tensorflow,sklearn&perline=9)](https://skillicons.dev)
