@@ -6,7 +6,7 @@ Machine Learning, Artificial Intelligence, and Computer Vision are where I am fo
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,py,js,html,css,cpp,bootstrap,androidstudio,kotlin,mysql,nodejs,php,react,opencv,pytorch,tensorflow,sklearn&perline=9)](https://skillicons.dev)
 
-- 🌱 I’m currently learning React JS | C++ | BootStrap  
+- 🌱 I’m currently learning React JS | C++ | Flutter  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoKaramitos&theme=tokyonight&hide_progress=true) 
 
