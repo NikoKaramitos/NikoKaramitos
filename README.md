@@ -4,7 +4,7 @@
 I study Computer Science 👨‍💻 at the University of Central Florida 🍊Go Knights!🟨⚔️⬛️
 Machine Learning, Artificial Intelligence, and Computer Vision are where I am focusing my learning right now.
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,py,js,flutter,unreal,html,css,cpp,bootstrap,androidstudio,mysql,nodejs,php,react,opencv,pytorch,tensorflow,sklearn&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,js,flutter,unreal,html,css,cpp,bootstrap,androidstudio,kotlin,mysql,nodejs,php,react,opencv,pytorch,tensorflow,sklearn&perline=10)](https://skillicons.dev)
 
 - 🌱 I’m currently learning React JS | C++ | Flutter | Unreal 5  
 
