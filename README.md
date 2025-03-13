@@ -1,12 +1,14 @@
 
-<img width="1834" alt="Make your README" src="https://github.com/NikoKaramitos/NikoKaramitos/assets/78456903/8398b119-b5b6-476a-9847-38d1970f7a88">
+<img width="1834" alt="Make your README(2)" src="https://github.com/user-attachments/assets/05136376-e30b-43b8-85fa-9b1b111702a8" />
 
-I study Computer Science 👨‍💻 at the University of Central Florida 🍊Go Knights!🟨⚔️⬛️
-Machine Learning, Artificial Intelligence, and Computer Vision are where I am focusing my learning right now.
+## Jr. Software Developer @ Adaptive Stack Technologies | AdaptiveVets Solutions
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,py,js,flutter,html,css,bootstrap,androidstudio,kotlin,mysql,nodejs,php,react,opencv,pytorch,tensorflow,sklearn&perline=10)](https://skillicons.dev)
+`Computer Science Graduate 👨‍💻 University of Central Florida 2024 🍊Go Knights!🟨⚔️⬛️`
 
-- 🌱 I’m currently learning React JS | MySQL | Python CV
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,js,flutter,html,css,bootstrap,androidstudio,kotlin,mysql,nodejs,php,react,opencv,pytorch,tensorflow,sklearn,angular,ts&perline=10)](https://skillicons.dev)
+
+`🌱 I’m currently learning Angular | Typescript | Azure Dev
+Ops`
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoKaramitos&theme=tokyonight&hide_progress=true) 
 
