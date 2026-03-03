@@ -1,13 +1,13 @@
 
 <img width="1834" alt="Make your README(2)" src="https://github.com/user-attachments/assets/05136376-e30b-43b8-85fa-9b1b111702a8" />
 
-## Jr. Software Developer @ Adaptive Stack Technologies | AdaptiveVets Solutions
+## Software Developer @ Adaptive Stack Technologies | AdaptiveVets Solutions
 
 `Computer Science Graduate 👨‍💻 University of Central Florida 2024 🍊Go Knights!🟨⚔️⬛️`
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,py,js,flutter,html,css,bootstrap,androidstudio,kotlin,mysql,nodejs,php,react,opencv,pytorch,tensorflow,sklearn,angular,ts&perline=10)](https://skillicons.dev)
 
-`🌱 I’m currently learning Angular | Typescript | Azure Dev
+`🌱 I’m currently learning ThreeJS | n8n Automation
 Ops`
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoKaramitos&theme=tokyonight&hide_progress=true) 
